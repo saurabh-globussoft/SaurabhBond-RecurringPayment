@@ -1,0 +1,13 @@
+{
+    "name": "saurabh-bond/recurring-payment",
+    "description": "to create paypal recurring profile and to manage it",
+    "type": "library",
+    "authors": [
+        {
+            "name": "sauabh kumar",
+            "email": "saurabh.kumar@globussoft.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
