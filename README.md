@@ -35,7 +35,7 @@ then in your function or method , create the Instance of PaymentController
  
  *(2)* to confirm payment
  
- In your success function ,call getPaymentDetails() with parmas as below
+ In your success function ,call confirmPayment() with parmas as below
  
  $token ====> generated in first step
  
